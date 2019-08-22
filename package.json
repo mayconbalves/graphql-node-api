@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mayconbalves/graphql-node-api/issues"
   },
-  "homepage": "https://github.com/mayconbalves/graphql-node-api#readme"
+  "homepage": "https://github.com/mayconbalves/graphql-node-api#readme",
+  "devDependencies": {
+    "typescript": "2.5.3"
+  }
 }
