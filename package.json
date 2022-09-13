@@ -27,8 +27,8 @@
     "@types/sequelize": "4.0.76",
     "gulp": "4.0.2",
     "gulp-clean": "0.3.2",
-    "gulp-typescript": "3.2.2",
-    "nodemon": "1.12.0",
+    "gulp-typescript": "6.0.0-alpha.1",
+    "nodemon": "1.19.4",
     "typescript": "2.5.3"
   },
   "dependencies": {
