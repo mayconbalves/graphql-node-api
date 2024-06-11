@@ -25,7 +25,7 @@
     "@types/graphql": "0.11.5",
     "@types/node": "8.0.34",
     "@types/sequelize": "4.0.76",
-    "gulp": "4.0.2",
+    "gulp": "5.0.0",
     "gulp-clean": "0.4.0",
     "gulp-typescript": "6.0.0-alpha.1",
     "nodemon": "2.0.20",
